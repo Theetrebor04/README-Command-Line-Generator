@@ -1,10 +1,12 @@
 
-  # undefined
-  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/theetrebor/ReadME Generator)
+# README-Command-Line-Generator
+  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Theetrebor04/README-Command-Line-Generator)
 
 # Description
 
-It is an application that runs on node and helps you generate a professional readme
+Allows the user to use a command line driven questionaire to generate a professional README.
+
+![alt text](./images/Capture-1.png "Active project in Command Line")
 
 # Table of Contents 
 
@@ -22,11 +24,15 @@ It is an application that runs on node and helps you generate a professional rea
 
 # Installation
 
-The following necessary dependencies must be installed to run the application properly: inquirer
+The following necessary dependencies must be installed to run the application properly: Inquirer
 
 # Usage
 
-​This application is used for Generate ReadME files
+​This application is used for Generating READ.md files
+
+Quick video of the application in use below:
+
+https://drive.google.com/file/d/1FpOqwlc1mrC0klDkHi0TxLx2v-3Bf7TU/view
 
 # License
 This project is license under the undefined license.
@@ -37,9 +43,8 @@ This project is license under the undefined license.
 
 # Tests
 
-To run tests, you need to run the following command: index.js
+To run tests, you need to run the following command: N/A
 
 # Questions
 
-If you have any questions about the repo, open an issue or contact theetrebor directly bobbycharizard@gmail.com.
-
+If you have any questions about the repo, open an issue or contact Theetrebor04 directly bobbycharizard@gmail.com.

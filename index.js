@@ -47,7 +47,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "What command do you use to tes this app?",
+        message: "What command do you use to test this app?",
         name: "Test",
     }
 ];
